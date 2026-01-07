@@ -396,15 +396,6 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ---
 
-##  Contact
-
-**Mohit Naveen**
-- GitHub: [@MohitNaveen](https://github.com/MohitNaveen)
-- LinkedIn: [Mohit Naveen](https://linkedin.com/in/mohit-naveen)
-- Email: monaveen24@gmail.com
-
----
-
 ##  Disclaimer
 
 **This project is for educational purposes only.** It uses historical data and machine learning models that should NOT be used for actual investment decisions. Past performance does not guarantee future results. Always consult with qualified financial advisors before making investment decisions.
