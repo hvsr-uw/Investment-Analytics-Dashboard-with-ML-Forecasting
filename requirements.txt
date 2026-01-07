@@ -1,0 +1,7 @@
+streamlit 1.50.0 
+pandas 2.3.3 
+numpy 2.3.4
+plotly 6.3.1
+statsmodels 0.14.5
+scikit-learn 1.7.2
+yfinance 0.2.66
