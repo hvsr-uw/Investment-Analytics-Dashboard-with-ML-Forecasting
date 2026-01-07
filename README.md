@@ -2,7 +2,6 @@
 
 **A sophisticated financial analytics platform combining time-series forecasting, portfolio optimization, and risk analysis using machine learning.**
 
-[Demo Video](https://youtu.be/Xd92G-rIrcI) 
 
 ---
 
